@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  background-color: #d6e2f0; }
+
+.container {
+  max-width: 1440px;
+  padding: 0 1.5rem;
+  margin: auto;
+  overflow: hidden; }
+
+.qrcode {
+  text-align: center;
+  width: 300px;
+  margin: auto;
+  margin-top: 150px;
+  padding: 20px 15px;
+  background-color: white;
+  border-radius: 15px; }
+  .qrcode img {
+    height: 300px;
+    width: 300px;
+    border-radius: 15px; }
+  .qrcode h2 {
+    margin-top: 20px;
+    color: #1f3251;
+    padding: 0 5px; }
+  .qrcode p {
+    color: #7b879d;
+    margin: 15px 0;
+    padding: 0 15px; }
